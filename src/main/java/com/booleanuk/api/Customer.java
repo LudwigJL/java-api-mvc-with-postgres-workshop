@@ -23,7 +23,6 @@ public class Customer {
         return result;
     }
 
-
     public String getName() {
         return name;
     }
